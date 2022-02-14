@@ -3,4 +3,4 @@ CI REpesitory
 
 git clone
 
-massage 3
+massage 2
